@@ -3,11 +3,13 @@
 {
   
    "posts": [
+     {
   "first_name": "Anwesha",
   "last_name" : "Bhowmik",
   "userid" : 1153,
   "password" : "ankhi",
   "role" :"manager"
+     }
      ],
   
   "profile": {
