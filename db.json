@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+  "first_name": "Anwesha",
+  "last_name" : "Bhowmik",
+  "userid" : 1153,
+  "password" : "ankhi",
+  "role" :"manager"
 }
